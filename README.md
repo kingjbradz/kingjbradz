@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">An aspiring junior developer from Ausrtralia!</h3>
+<h3 align="center">An aspiring junior developer from Australia!</h3>
 
 🌱 I’m currently learning **AWS, Python, React**
 
