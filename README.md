@@ -3,9 +3,9 @@
 
 👨🏻‍💻 Currently working at **Elbaite**.
 
-🌱 I’m currently learning **AWS, React, Redux, Elixir + Phoenix**.
+🌱 I’m learning **AWS, React, Redux, Elixir + Phoenix**.
 
-👨‍💻 All of my projects are available [here](https://www.github.com/kingjbradz).
+👨‍💻 Most of my projects are available [here](https://www.github.com/kingjbradz).
 
 📄 Take a look at my response to the cloud resume challenge [here](https://www.jordanrbradley.com).
 
