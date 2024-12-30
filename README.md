@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A junior developer from Australia!</h3>
+<h3 align="center">A web developer from Australia, based in NYC!</h3>
 
 <!-- 👨🏻‍💻 Currently working at **Elbaite**. -->
 
