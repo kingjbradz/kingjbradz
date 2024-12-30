@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A junior developer from Australia!</h3>
 
-👨🏻‍💻 Currently working at **Elbaite**.
+<!-- 👨🏻‍💻 Currently working at **Elbaite**. -->
 
-🌱 I’m learning **AWS, React, Redux, Elixir + Phoenix**.
+🌱 I’m proficient in **AWS, React, Redux, Elixir + Phoenix**.
 
 👨‍💻 Most of my projects are available [here](https://www.github.com/kingjbradz).
 
-📄 Take a look at my response to the cloud resume challenge [here](https://www.jordanrbradley.com).
+<!-- 📄 Take a look at my response to the cloud resume challenge [here](https://www.jordanrbradley.com). -->
 
-🌟 One day soon when I have free time I'd like to try some projects with **Python** or **Vue**.
+🌟 One day soon when I have free time I'd like to try some projects with **Python**, or I'd like to spend some time building my own **SLMs**.
 
-💬 Talk to me about **React**, **AWS** or **Ruby on Rails**!
+💬 Talk to me about **React**, **AWS** or **Phoenix**!
 
 📫 You can reach me at **jordanrhysbradley@gmail.com**!
 
